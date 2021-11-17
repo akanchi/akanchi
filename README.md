@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="150px" src="https://raw.githubusercontent.com/akanchi/iBeats/main/files/heart.svg"/></a>
+<img width="150px" src="https://github.com/akanchi/iBeats/blob/main/files/heart.svg"/></a>
 
 <!--
 **akanchi/akanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
